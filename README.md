@@ -1,4 +1,4 @@
-# paste-server
+# clj-paste-server
 
 A simple Clojure web app that lets you
 * Write your data by POSTing it as JSON to /store/path.
